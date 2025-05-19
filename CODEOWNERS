@@ -1,0 +1,7 @@
+CODEOWNERS @rbxinfra/web-platform-maintainers
+
+/lib/ @rbxinfra/library-maintainers
+/api-sites/ @rbxinfra/web-api-platform
+/services/ @rbxinfra/micro-services-platform
+/web/ @rbxinfra/web-platform-maintainers
+/tools/ @rbxinfra/platform-ci

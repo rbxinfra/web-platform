@@ -1,0 +1,24 @@
+[submodule "lib"]
+	path = lib
+	url = git@github.com:rbxinfra/rbx-libraries.git
+[submodule "services/email"]
+	path = services/email
+	url = git@github.com:rbxinfra/bedev2-service-email.git
+[submodule "tools/entity-schema-generator"]
+	path = tools/entity-schema-generator
+	url = git@github.com:rbxinfra/entity-schema-generator.git
+[submodule "tools/translation-resource-generator"]
+	path = tools/translation-resource-generator
+	url = git@github.com:rbxinfra/translation-resource-generator
+[submodule "services/ephemeral-counters"]
+	path = services/ephemeral-counters
+	url = git@github.com:rbxinfra/ephemeral-counters.git
+[submodule "services/games"]
+	path = services/games
+	url = git@github.com:rbxinfra/bedev2-service-games.git
+[submodule "services/apicontrolplane"]
+	path = services/apicontrolplane
+	url = git@github.com:rbxinfra/apicontrolplane-service.git
+[submodule "services/key-management-service"]
+	path = services/key-management-service
+	url = git@github.com:rbxinfra/key-management-service.git
