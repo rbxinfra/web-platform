@@ -2,6 +2,11 @@
 
 This repository is a hub to all the repositories in the Roblox platform sorted by aspect.
 
+# Access
+
+Please note that if a repository is inaccessible within this repository, and you are not part of their respective team:
+It means that the repository was deemed not ready for publication, and will be released in the near future.
+
 # Notice
 
 ## Usage of Roblox, or any of its assets.
