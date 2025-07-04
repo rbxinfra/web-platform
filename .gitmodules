@@ -22,3 +22,6 @@
 [submodule "services/key-management-service"]
 	path = services/key-management-service
 	url = git@github.com:rbxinfra/key-management-service.git
+[submodule "services/roles"]
+	path = services/roles
+	url = git@github.com:rbxinfra/roles-service.git
