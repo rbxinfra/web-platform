@@ -28,3 +28,6 @@
 [submodule "service-contracts"]
 	path = service-contracts
 	url = git@github.com:rbxinfra/service-contracts.git
+[submodule "services/system-events"]
+	path = services/system-events
+	url = git@github.com:rbxinfra/system-events-service.git
